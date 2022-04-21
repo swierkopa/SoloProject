@@ -1,0 +1,11 @@
+export const CREATE_TICKET = 'CREATE_TICKET';
+
+export const UPDATE_NAME = 'UPDATE_NAME';
+export const UPDATE_PROBLEM = 'UPDATE_PROBLEM';
+export const UPDATE_EXPECT = 'UPDATE_EXPECT';
+export const UPDATE_TRIED = 'UPDATE_TRIED';
+export const UPDATE_SUSPECT = 'UPDATE_SUSPECT';
+export const UPDATE_ZOOM = 'UPDATE_ZOOM';
+
+export const DELETE_TICKET = 'DELETE_TICKET';
+export const UPDATE_TICKET = 'UPDATE_TICKET';
